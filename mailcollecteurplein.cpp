@@ -14,11 +14,11 @@
 #define SMTP_PORT 587
 
 /* Identifiants email expéditeur */
-#define AUTHOR_EMAIL "astuceur@gmail.com"
+#define AUTHOR_EMAIL "mail@gmail.com"
 #define AUTHOR_PASSWORD "tonmotdepassemail"
 
 /* Email du destinataire*/
-#define RECIPIENT_EMAIL "astuceur@free.fr"
+#define RECIPIENT_EMAIL "mail@free.fr"
 
 // parametre machine
 #define NOMDUSITE "ECP29"
